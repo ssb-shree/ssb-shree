@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Passionate about learning backend technologies<br><br>Exploring microservice architecture<br><br>REST API development and E2E testing<br><br>Unit testing with Jest</p>
+<p align="left">Passionate about learning backend technologies<br><br>Exploring microservice architecture<br><br>REST API development<br></p>
 
 ###
 
